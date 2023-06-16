@@ -8,6 +8,10 @@
 + Code 401: ASP.NET Core     
 # 
 
-# [# SQL & relational databases](./SQL%20%26%20relational%20databases.md)
+
 
 # [# Readings: Exception Handling](./Reading.md)
+
+# [# SQL & Relational database](./SQLAndRelationalDatabases.md)
+
+# [# The command Line](./TheCommandLine.md)
