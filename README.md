@@ -20,3 +20,6 @@
 
 # [# Interfaces](./Interfaces.md)
 
+# [# Collections and Enums ](./Collections_Enums.md)
+
+
