@@ -8,7 +8,7 @@
 ## Introduction to LINQ Queries (C#)
 + A query is an expression that retrieves data from a data source it's usually expressed in a specialized query language
 + This example shows how the three parts of a query operation (Create, define and excute) are expressed in source code:
-  ````markdown
+````markdown
 class IntroToLINQ
 {
     static void Main()
@@ -17,12 +17,10 @@ class IntroToLINQ
         int[] numbers = new int[7] { 0, 1, 2, 3, 4, 5, 6 };
 
         // 2. Query creation.
-      
         var numQuery =
             from num in numbers
             where (num % 2) == 0
             select num;
-
         // 3. Query execution.
         foreach (int num in numQuery)
         {
@@ -30,5 +28,6 @@ class IntroToLINQ
         }
     }
 }
+        
 ````
   
