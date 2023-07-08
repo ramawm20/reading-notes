@@ -30,4 +30,13 @@ class IntroToLINQ
 }
         
 ````
-  
+#### Data source
++ So here in the example because the data source is an array, it implicitly supports the generic IEnumerable<T> interface. This fact means it can be queried with LINQ.
+
+#### The query 
++ The query in the example returns all the even numbers from the integer array.
+
+#### Query Execution
++ Iterates throw the numbers in **numQuery** and print the numbers.
+
+
