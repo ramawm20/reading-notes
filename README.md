@@ -22,4 +22,7 @@
 
 # [# Collections and Enums ](./Collections_Enums.md)
 
-# [# Dependency Injection & Repo design Patterns](./Dependency-Injection-&-Repository-Design-Pattern.md)
+# [# Dependency Injection & Repo design Patterns](./Dependency-Injection-&-Repository-Design-Pattern.md)          
+
+# [# Navigation properities and routing](./Navigation_properities_And_Routing.md)
+
